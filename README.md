@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ebook-demo
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-book
+vue小说阅读器(阅读设置基础功能实现)
+>>>>>>> 4fa92a15e39c5c654aad913855fb67e001ba8403
